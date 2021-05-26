@@ -1,3 +1,6 @@
+git config -l (показать ваш конфиг git для текущего пользователя)
+git config --global user.name "Name LastName" (указывает ваше имя/фамилия в config файл)
+git config --global user.email "email@email.com" (указывает ваш email в config файл)
 git init . (указываем рабочую область в текущей директории)
 git add ./file1.txt (добавить в git file1.txt)
 git status (узнать статус)
