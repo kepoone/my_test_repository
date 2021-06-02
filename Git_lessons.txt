@@ -6,6 +6,7 @@ git config --global user.email "email@email.com" (указывает ваш emai
 Lesson_2
 git init . (указываем рабочую область в текущей директории)
 git add ./file1.txt (добавить в git file1.txt)
+git reset ./file1.txt (отмена добавления в git файла file1.txt)
 git commit -m "My initial commit? this is Version1.0" (сделать снимок)
 git status (узнать статус)
 
