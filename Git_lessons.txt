@@ -1,8 +1,8 @@
 Add to man
 1) git cherry-pick (https://www.youtube.com/watch?v=TZJxBSfR0NE&t=17s)
 2) git rebase
-3) git rebase -i (squash) https://www.youtube.com/watch?v=Ujkq0QqwWXk
-
+3) git rebase -i HEAD~5 (squash) https://www.youtube.com/watch?v=Ujkq0QqwWXk
+4) git push --force origin
 
 
 Lesson_1
