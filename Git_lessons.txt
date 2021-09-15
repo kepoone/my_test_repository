@@ -47,6 +47,7 @@ Lesson_6
 5. git branch -D name_branch (удалить ветку если даже есть изменения(комиты))
 6. git checkout -b name_branch (создать и переключиться на указанную ветку)
 7. git merge name_branch (соединяет ветку с указанной веткой)
+8. git show master:index.html (посмотреть файл (где "mster" это наименование ветки, а "index.html" это файл ))
 
 Lesson_7
 1. git commit --amend (редактировать описание последнего коммита)
