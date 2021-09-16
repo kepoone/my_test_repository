@@ -5,7 +5,8 @@ Add to man
 4) git push --force origin
 5) git push -u origin --all
 6) git push -u origin --tags
-
+7) pull request
+8) fork repository
 
 
 
