@@ -3,6 +3,12 @@ Add to man
 2) git rebase
 3) git rebase -i HEAD~5 (squash) https://www.youtube.com/watch?v=Ujkq0QqwWXk
 4) git push --force origin
+5) git push -u origin --all
+6) git push -u origin --tags
+
+
+
+
 
 
 Lesson_1
