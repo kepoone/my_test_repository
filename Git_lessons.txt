@@ -7,7 +7,8 @@ Add to man
 6) git push -u origin --tags
 7) pull request
 8) fork repository
-9) Git Flow
+9) git-stash
+10) Git Flow
 
 
 
