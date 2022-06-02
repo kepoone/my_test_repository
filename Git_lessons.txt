@@ -8,6 +8,7 @@ Add to man
 7) pull request
 8) fork repository
 9) git-stash
+10) git fetch
 10) Git Flow
 
 
