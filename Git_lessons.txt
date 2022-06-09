@@ -9,7 +9,8 @@ Add to man
 8) fork repository
 9) git-stash
 10) git fetch
-10) Git Flow
+11) Pull Request (Merge Request в GitLab)
+12) Git Flow
 
 
 
